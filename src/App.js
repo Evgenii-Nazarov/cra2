@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.css'
 import Counter from "./Counter";
 import AddCounterForm from "./AddCounterForm";
 
@@ -59,7 +60,7 @@ function App() {
     };
 
   return (
-      <div>
+      <div className='container'>
           Total count {counters.reduce((acc,el) => acc + el.value, 0)}
           <hr/>
           <button onClick={resetTotalCount}>Reset total count</button>

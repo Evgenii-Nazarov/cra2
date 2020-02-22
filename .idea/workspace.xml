@@ -1,11 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="638a0e7e-d1b9-4d31-a80d-66616b5dda13" name="Default Changelist" comment="delpoy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddCounterForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddCounterForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter.js" afterDir="false" />
+    </list>
+    <list id="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" name="delpoy" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/package.json">
+      <ranges>
+        <range start1="4" end1="4" start2="4" end2="5" changelist="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" />
+        <range start1="8" end1="8" start2="9" end2="10" changelist="638a0e7e-d1b9-4d31-a80d-66616b5dda13" />
+        <range start1="16" end1="17" start2="18" end2="21" changelist="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" />
+        <range start1="32" end1="32" start2="36" end2="39" changelist="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectId" id="1Y3qzxrjTBEmZh4emw0TAJlqdgw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\cra2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.predeploy" />
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="638a0e7e-d1b9-4d31-a80d-66616b5dda13" name="Default Changelist" comment="" />
+      <changelist id="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" name="delpoy" comment="" />
+      <created>1582181891675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582181891675</updated>
+      <workItem from="1582181893234" duration="5974000" />
+      <workItem from="1582264465076" duration="138000" />
+      <workItem from="1582391098200" duration="6474000" />
+    </task>
+    <task id="LOCAL-00001" summary="delpoy">
+      <created>1582393319639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582393319639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delpoy" />
+    <option name="LAST_COMMIT_MESSAGE" value="delpoy" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582394666101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582394666101" />
+    <state x="129" y="60" key="DiffContextDialog" timestamp="1582188272029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="60" key="DiffContextDialog/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582188272029" />
+    <state x="509" y="241" width="371" height="246" key="Github.ShareDialog" timestamp="1582188318926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="509" y="241" width="371" height="246" key="Github.ShareDialog/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582188318926" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1582395342925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582395342925" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1582395342925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582395342925" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1582395342924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582395342924" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1582395342925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582395342925" />
+    <state x="530" y="280" key="VCS.ChangelistChooser" timestamp="1582393696710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="530" y="280" key="VCS.ChangelistChooser/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582393696710" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1582393375927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582393375927" />
+    <state x="315" y="61" width="736" height="606" key="find.popup" timestamp="1582183730837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="315" y="61" width="736" height="606" key="find.popup/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582183730837" />
   </component>
 </project>
