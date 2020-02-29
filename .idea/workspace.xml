@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="638a0e7e-d1b9-4d31-a80d-66616b5dda13" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <list id="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" name="delpoy" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -26,17 +24,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/package.json">
-      <ranges>
-        <range start1="4" end1="4" start2="4" end2="5" changelist="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" />
-        <range start1="10" end1="10" start2="11" end2="12" changelist="638a0e7e-d1b9-4d31-a80d-66616b5dda13" />
-        <range start1="11" end1="12" start2="13" end2="15" changelist="638a0e7e-d1b9-4d31-a80d-66616b5dda13" />
-        <range start1="17" end1="18" start2="20" end2="23" changelist="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" />
-        <range start1="33" end1="33" start2="38" end2="41" changelist="f4d75104-014e-4bc3-9b1b-588f3dbe7cd9" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1Y3qzxrjTBEmZh4emw0TAJlqdgw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -140,7 +127,7 @@
       <workItem from="1582482089824" duration="9180000" />
       <workItem from="1582508327616" duration="841000" />
       <workItem from="1582509378647" duration="2952000" />
-      <workItem from="1582769097974" duration="2354000" />
+      <workItem from="1582769097974" duration="2469000" />
     </task>
     <task id="LOCAL-00001" summary="delpoy">
       <created>1582393319639</created>
@@ -156,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582398057174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bootstrap">
+      <created>1582787066395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582787066395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,10 +180,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#ESLint/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582485545782" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582398053626">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582955780699">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582398053626" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582955780699" />
     <state x="129" y="60" key="DiffContextDialog" timestamp="1582188272029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -198,22 +192,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="509" y="241" width="371" height="246" key="Github.ShareDialog/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582188318926" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1582769785166">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1582787163839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582769785166" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1582769785166">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582787163839" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1582787163838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582769785166" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1582769785165">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582787163838" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1582787163822">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582769785165" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1582769785166">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582787163822" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1582787163838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582769785166" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582787163838" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1582485128177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -222,10 +216,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="280" key="VCS.ChangelistChooser/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582393696710" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1582398059359">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1582787070692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582398059359" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.85.1920.1040@0.0.1366.728" timestamp="1582787070692" />
     <state x="315" y="61" width="736" height="606" key="find.popup" timestamp="1582183730837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

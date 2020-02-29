@@ -3,33 +3,27 @@ import './App.css';
 
 function AddCounterForm(props) {
 
-    const [name, setName] = useState('type name')
-    const [value, setValue] = useState('type value');
+    const [name, setName] = useState('---');
+    const [count, setCount] = useState(456);
 
-    const onSubmit = (name, value) => {
-        props.onSubmit(name, Number(value));
+    const onSubmit = () => {
+        props.onSubmit(name, Number(count));
         setName('');
-        setValue(0);
+        setCount(0);
     };
 
     return (
-        <div className='row'>
-            <div className="col">
-                <p>Add new counter</p>
+        <div>
 
-            </div>
-            <div className="col">
+            <input type="text" name='name' value={name}
+                   onChange={e => setName(e.target.value)} />
 
-                <input className="form-control" type="text" value={name} onChange={e => setName(e.target.value)}/>
-            </div>
-            <div className="col">
+            <input type="number" name='count' value={count}
+                   onChange={e => setCount(e.target.value)} />
 
-                <input className="form-control" type="text" value={value} onChange={e => setValue(e.target.value)}/>
-            </div>
-            <div className="col">
 
-                <button className="btn btn-primary" onClick={() => onSubmit(name, value)}>Create</button>
-            </div>
+            <button onClick={() => onSubmit(name, count)}>Create</button>
+
         </div>
     );
 }
